@@ -1,0 +1,16 @@
+﻿  test.c
+e:\编程代码\listtest of interview\listtest of interview\test.c(78): warning C4047: “函数”:“int *”与“DataType”的间接级别不同
+e:\编程代码\listtest of interview\listtest of interview\test.c(78): warning C4024: “swap”: 形参和实参 1 的类型不同
+e:\编程代码\listtest of interview\listtest of interview\test.c(78): warning C4024: “swap”: 形参和实参 2 的类型不同
+e:\编程代码\listtest of interview\listtest of interview\test.c(131): warning C4047: “=”:“int”与“void *”的间接级别不同
+e:\编程代码\listtest of interview\listtest of interview\test.c(131): error C2106: “=”: 左操作数必须为左值
+e:\编程代码\listtest of interview\listtest of interview\test.c(159): warning C4047: “=”:“LinkList *”与“int”的间接级别不同
+e:\编程代码\listtest of interview\listtest of interview\test.c(161): warning C4098: “LinkListBubbleSort”:“void”函数返回值
+e:\编程代码\listtest of interview\listtest of interview\test.c(247): error C2084: 函数“LinkList *MergeLinkList(LinkList *,LinkList *)”已有主体
+  e:\编程代码\listtest of interview\listtest of interview\test.c(191): note: 参见“MergeLinkList”的前一个定义
+e:\编程代码\listtest of interview\listtest of interview\test.c(539): warning C4013: “GetEntranceNode”未定义；假设外部返回 int
+e:\编程代码\listtest of interview\listtest of interview\test.c(539): warning C4047: “=”:“LinkList *”与“int”的间接级别不同
+e:\编程代码\listtest of interview\listtest of interview\test.c(540): warning C4047: “=”:“LinkList *”与“int”的间接级别不同
+e:\编程代码\listtest of interview\listtest of interview\test.c(578): warning C4047: “初始化”:“LinkList *”与“int”的间接级别不同
+e:\编程代码\listtest of interview\listtest of interview\test.c(722): warning C4133: “函数”: 从“int [5]”到“LinkList *”的类型不兼容
+e:\编程代码\listtest of interview\listtest of interview\test.c(722): warning C4133: “函数”: 从“int [8]”到“LinkList *”的类型不兼容
